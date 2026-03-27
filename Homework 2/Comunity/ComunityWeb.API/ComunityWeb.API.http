@@ -1,0 +1,6 @@
+@ComunityWeb.API_HostAddress = http://localhost:5156
+
+GET {{ComunityWeb.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

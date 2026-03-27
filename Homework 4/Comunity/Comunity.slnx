@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ComunityWeb.API/ComunityWeb.API.csproj" />
+  <Project Path="ComunityWeb.Application/ComunityWeb.Application.csproj" Id="49dbf0a8-6f20-4ce4-adf6-65fcf889cdf9" />
+  <Project Path="ComunityWeb.Domain/ComunityWeb.Domain.csproj" Id="40428fb4-96db-47b9-8f13-7db02bcfc8ed" />
+  <Project Path="ComunityWeb.Infraestructure/ComunityWeb.Infraestructure.csproj" Id="45266fb3-37c7-4120-b271-476b7a2fbef3" />
+</Solution>
